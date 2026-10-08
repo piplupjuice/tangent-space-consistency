@@ -1,0 +1,9 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:01<06:32,  1.17s/it]Loading weights:  43%|████▎     | 147/338 [00:01<00:01, 160.13it/s]Loading weights:  69%|██████▉   | 233/338 [00:01<00:00, 148.06it/s]Loading weights:  85%|████████▍ | 286/338 [00:02<00:00, 154.70it/s]Loading weights:  96%|█████████▌| 325/338 [00:02<00:00, 155.94it/s]Loading weights: 100%|██████████| 338/338 [00:02<00:00, 134.37it/s]
+greedy 64/125
+greedy 125/125
+samples 32/125
+samples 64/125
+samples 96/125
+samples 125/125
+WORKER_DONE
