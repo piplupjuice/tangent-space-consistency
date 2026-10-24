@@ -1,4 +1,4 @@
-# Tangent-Space Consistency (TSC): a pilot study
+# LLM-tangent Consistency (TSC):
 
 **Question:** can a simple geometric score on an LLM's hidden states tell us when the model's math answer is wrong, without using any labels?
 
